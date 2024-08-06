@@ -1,5 +1,5 @@
 # BMI_Calculator
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -125,12 +125,7 @@ table,tr,td{
 </style>
 </head>
 <body>
-<div class="cu">
-<h2 >University of Computer Studies (Kyaing Tong)</h2>
-<h3 >CS-2254 Web Development Programming </h3>
-<h3 >UCSKT-18001(Ma Nang Kein Swan)</h3>
 
-</div>
 <div class="status1">
 <h2>BMI Calculator</h2>
 <p>Please enter your Weight and Height</p><br />
